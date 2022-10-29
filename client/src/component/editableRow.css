@@ -1,0 +1,13 @@
+
+.input-details{
+
+    border: none;
+    align-items: center;
+    text-align: center;
+    outline: none;
+
+}
+.input-details::placeholder{
+    color:red;
+}
+
